@@ -136,7 +136,7 @@ class _EditContactState extends State<EditContact> {
                           borderRadius: BorderRadius.circular(50),
                         ),
                       ),
-                      child: const Text("SAVE",
+                      child: const Text("UPDATE",
                         style: TextStyle(color: Colors.white),
                       )),
                 )
